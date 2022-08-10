@@ -1,0 +1,15 @@
+.react {
+  background-color: aqua;
+  font-size: 48px;
+  padding: 16px;
+  color: black;
+  font-weight: bold;
+}
+
+.success {
+  background-color: lightgreen;
+}
+
+.failure {
+  background-color: lightcoral;
+}
